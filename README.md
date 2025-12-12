@@ -31,7 +31,7 @@ Main cleaning steps performed in the notebook:
   
 Full code and detailed cleaning steps are included in the Jupyter notebook.
 
- ## 📊 Key KPIs
+ ## Key KPIs
 
 - 23.9% of individuals earn more than 50K
 - High earners: average age 44.3, work 45.4 hours/week
@@ -54,7 +54,6 @@ Full code and detailed cleaning steps are included in the Jupyter notebook.
 ### 4. Top 10 Occupations by % Earning >50K
 <img width="916" height="311" alt="Top 10 Occupations by  Earning" src="https://github.com/user-attachments/assets/e7ff0e23-8885-4019-9c97-b48611416dd4" />
 
-
 ### 5. Income by Workclass
 <img width="852" height="311" alt="Income by Workclass¶" src="https://github.com/user-attachments/assets/1113193d-9dad-477c-9e52-0c20b3dd3c7d" />
 
@@ -70,7 +69,7 @@ Full code and detailed cleaning steps are included in the Jupyter notebook.
 - High earners work more hours consistently, showing a strong link between weekly hours and income.
 - Self-employed individuals with incorporated businesses perform best.
 
-## 📝 Recommendations
+## Recommendations
 
 - Encourage advanced education and career development
 - Implement programs to reduce gender income gap
