@@ -1,5 +1,10 @@
 # Adult-Income-Analysis
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Key KPIs](#key-kpis)
+- [Recommendations](#recommendations)
+
 ## Project Overview
 This project performs an in-depth exploratory data analysis (EDA) on the Adult Income dataset to identify the demographic and socioeconomic factors associated with earning more than $50K per year.
 
